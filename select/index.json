@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ハゼ馳せる果てるまで",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2026-02-11T01:03:30.043117Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハゼ馳せる果てるまで",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_ハゼ馳せる果てるまで_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハゼ馳せる果てるまで",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_ハゼ馳せる果てるまで_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハゼ馳せる果てるまで",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/03_ハゼ馳せる果てるまで_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハゼ馳せる果てるまで (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/04_ハゼ馳せる果てるまで_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハゼ馳せる果てるまで - Haze Haseru Haterumade",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/05_ハゼ馳せる果てるまで_-_Haze_Haseru_Haterumade_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハゼ馳せる果てるまで",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/06_ハゼ馳せる果てるまで_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ずっと真夜中でいいのに。『ハゼ馳せる果てるまで』MV",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/07_ずっと真夜中でいいのに。『ハゼ馳せる果てるまで』MV_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "『ハゼ馳せる果てるまで』 (Until the end of the Goby)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/08_『ハゼ馳せる果てるまで』_(Until_the_end_of_the_Goby)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ハゼ馳せる果てるまで(抗いハゼフライ定食)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/09_ハゼ馳せる果てるまで(抗いハゼフライ定食)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ハゼ馳せる果てるまで(抗いハゼフライ定食)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/10_ハゼ馳せる果てるまで(抗いハゼフライ定食)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハゼ馳せる果てるまで",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_ハゼ馳せる果てるまで_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ハゼ馳せる果てるまで",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_ハゼ馳せる果てるまで_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ハゼ馳せる果てるまで",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_03_ハゼ馳せる果てるまで_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ハゼ馳せる果てるまで",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_04_ハゼ馳せる果てるまで_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ハゼ馳せる果てるまで",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_05_ハゼ馳せる果てるまで_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
